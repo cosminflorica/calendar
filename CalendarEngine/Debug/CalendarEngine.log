@@ -1,0 +1,3 @@
+﻿  Engine.cpp
+C:\Users\Cosmin\source\repos\Calendar\CalendarEngine\Engine.cpp(103): warning C4715: 'engine::get_century_code': not all control paths return a value
+  CalendarEngine.vcxproj -> C:\Users\Cosmin\source\repos\Calendar\Debug\CalendarEngine.lib
